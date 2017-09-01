@@ -1,4 +1,5 @@
 # EMulator (Atom Package)
+*Important:* This package is very old, back from when when Atom was new. I'm not currently maintaining or updating it, and don't know if it works with the latest version of Atom.
 
 Super simple (but very necessary) inline calculator for em(and rem) units.
 
